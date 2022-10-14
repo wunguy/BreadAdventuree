@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="64" tileheight="64" infinite="0" nextlayerid="6" nextobjectid="18">
+ <tileset firstgid="1" source="Map1.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJwt1dOyGAYARdEb27Zt27bNxnYa27ZtO42dxrZtNja6OtOZsz7gPO1AAQEBgQlCUIIRnBCEJBShCUNYwhGeCEQkEpGJQlSiEZ0YxCQWsYlDXOIRnwQkJBGJSUJSkpGcFKQkFalJQ1rSkZ4MZCQTmclCVrKRnRzkJBe5yUNe8pGfAhSkEIUpQlGKUZwSlKQUpSlDWcpRngpUpBKVqUJVqlGdGtSkFrWpQ13qUZ8GNOQPGtGYJjSlGc1pQUta0Zo2tKUd7elARzrRmS505U+60Z0e9KQXvelDX/rRnwEMZBCDGcJQhjGcEYxkFKMZw1jGMZ4JTGQSk5nCVKYxnRnMZBazmcNc5jGfBSxkEYtZwlKWsZwVrGQVq1nDWtaxng1sZBOb+YstbGUb29nBTnaxmz3sZR/7OcBB/uYQhznCUY5xnBOc5BSnOcNZznGeC1zkEpe5wlWucZ0b3OQWt7nDXe5xnwc85BGPecJTnvGcF7zkFa/5hze85R3v+cBHPvGZL3zlG9/5wU9+8ZuAQEZgghCUYAQnBCEJRWjCEJZwhCcCEYlEZKIQlWhEJwYxiUVs4hCXeMQnAQlJRGKSkJRkJCcFKUlFatKQlnSkJwMZyURmspCVbGQnBznJRW7ykJd85KcABSlEYYpQlGIUpwQlKUVpylCWcpSnAhWpRGWqUJVqVKcGNalFbepQl3rUpwEN+YNGNKYJTWlGc1rQkla0pg1taUd7OtCRTnSmC135k250pwc96UVv+tCXfvRnAAMZxGCGMJRhDGcEIxnFaMYwlnGMZwITmcRkpjCVaUxnBjOZxWzmMJd5zGcBC1nEYpawlGUsZwUrWcVq1rCWdaxnAxvZxOb//2xhK9vYzg52sovd7GEv+9jPAQ7yN4c4zBGOcozjnOAkpzjNGc5yjvNc4CKXuMwVrnKN69zgJre4zR3uco/7POAhj3jME57yjOe84CWveM0/vOEt73jPBz7yic984Svf+M4PfvKL3/wX/kAEJghBCUZwQhCSUIQmDGEJR3giEJFIRCYKUYlGdGIQk1jEJg5xiUd8EpCQRCQmCUlJRnJSkJJUpCYNaUlHejKQkUxkJgtZyUZ2cpCTXOQmD3nJR34KUJBCFKYIRSlGcUpQklKUpgxlKUd5KlCRSlSmClWpRnVqUJN/Ach2D9o=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Spawn">
+  <object id="1" name="Spawn" x="133.333" y="927.273" width="127.273" height="154.545"/>
+  <object id="2" x="-557.576" y="-257.576"/>
+ </objectgroup>
+ <objectgroup id="3" name="tuong">
+  <object id="4" name="Wall" x="1599" y="1087" width="321" height="193"/>
+  <object id="5" name="Wall" x="-2" y="1089" width="1346" height="200"/>
+  <object id="6" name="Wall" x="1856" y="1.33333" width="61.3333" height="1086.67"/>
+  <object id="7" name="Wall" x="1.33333" y="0" width="61.3333" height="1089.33"/>
+  <object id="10" name="Wall" x="192.5" y="0.5" width="1663" height="127.5"/>
+ </objectgroup>
+ <objectgroup id="4" name="gai">
+  <object id="12" name="Spike" x="1342.67" y="1212" width="254.667" height="68"/>
+ </objectgroup>
+ <objectgroup id="5" name="cua">
+  <object id="16" name="Door" x="1665.33" y="894.667" width="125.333" height="190.667"/>
+  <object id="17" x="1677.33" y="1890.67" width="84" height="1.33333"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="64" tileheight="64" infinite="0" nextlayerid="5" nextobjectid="25">
+ <tileset firstgid="1" source="Map1.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzTZ2Bg0B8gLM+IwPPQ+LTA2OylFd4PxAcGwN67QHwPzd55RGBK7f0NxH9oZG8gEwSjiSXoAsWQMTXt1Qaq4UPCyOmUEnspwaTaG8CEKaaNhqltrxKJZpNiryPUbqC/FuDw7wFahDPMXnR/7cOCiUlr1IpfYtI4NeNXHQ3T0l5seRKm7z4OTG78ottLSD8fGqaGvbTEuOxlx4NpZS8+O0EYVtZTgnH5dyAwAEdw3IE=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Wall">
+  <object id="1" name="Wall" x="1599.33" y="319.866" width="323.44" height="961.385"/>
+  <object id="2" name="Wall" x="0" y="1086.47" width="511.071" height="191.205"/>
+  <object id="3" name="Wall" x="511.071" y="1213.35" width="1091.83" height="62.5436"/>
+  <object id="4" name="Wall" x="1.78696" y="0" width="58.9697" height="1086.47"/>
+  <object id="8" name="Wall" x="62.5436" y="-1.78696" width="1853.08" height="60.7567"/>
+  <object id="9" name="Wall" x="1854.87" y="60.7567" width="64.3306" height="255.535"/>
+  <object id="10" name="Wall" x="1152.59" y="380.623" width="255.535" height="69.6915"/>
+  <object id="11" name="Wall" x="704.063" y="957.811" width="255.535" height="66.1175"/>
+  <object id="12" name="Wall" x="319.866" y="830.937" width="259.109" height="66.1175"/>
+  <object id="14" name="Wall" x="62.5436" y="702.276" width="128.661" height="64.3306"/>
+  <object id="15" name="Wall" x="384.197" y="573.614" width="191.205" height="66.1175"/>
+  <object id="16" name="Wall" x="766.606" y="511.071" width="257.322" height="64.3306"/>
+ </objectgroup>
+ <objectgroup id="3" name="Spike">
+  <object id="17" name="Spike" x="64.3306" y="639.732" width="64.3306" height="58.9697"/>
+  <object id="18" name="Spike" x="514.645" y="1152.59" width="1086.47" height="60.7567"/>
+  <object id="19" name="Spike" x="446.74" y="639.732" width="64.3306" height="62.5436"/>
+  <object id="20" name="Spike" x="444.953" y="509.284" width="67.9045" height="64.3306"/>
+  <object id="21" name="Spike" x="1216.92" y="319.866" width="126.874" height="58.9697"/>
+  <object id="22" name="Spike" x="1536.79" y="318.079" width="60.7567" height="64.3306"/>
+ </objectgroup>
+ <objectgroup id="4" name="Door">
+  <object id="23" name="Door" x="1665.45" y="125.087" width="126.874" height="194.779"/>
+ </objectgroup>
+</map>
